@@ -55,6 +55,7 @@ coverage.xml
 # IDE and Editor Configurations
 # ===================================================================
 # VSCode
+.vscode/
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
